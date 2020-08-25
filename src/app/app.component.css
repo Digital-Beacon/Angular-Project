@@ -1,0 +1,153 @@
+* {box-sizing: border-box}
+
+h1 {text-align: center;}
+h3{
+    text-align: center;
+}
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=lastname] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=lastname]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+input[type=text], input[type=contactno] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=contactno]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+
+  input[type=text], input[type=email] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=email]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+
+  input[type=text], input[type=skill] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=skill]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+
+  input[type=number], input[type=age] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=number]:focus, input[type=age]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+
+  input[type=text], input[type=address] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=addrerss]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+
+  input[type=number], input[type=workexperience] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=number]:focus, input[type=workexperience]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+
+  input[type=file], input[type=file] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=file]:focus, input[type=file]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+
+ 
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+
+.submit {
+  background-color: #FF5733 ;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.submit:hover {
+  opacity:1;
+}
+
+h4{
+    text-align: center;
+}
+
+a {
+  color: white;
+}
